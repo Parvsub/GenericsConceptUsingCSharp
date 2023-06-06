@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33717.318
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArraysProblemsUsingGenericsinCsharp", "ArraysProblemsUsingGenericsinCsharp\ArraysProblemsUsingGenericsinCsharp.csproj", "{FF61FA9B-592A-470A-9B77-A818BFEF5DED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF61FA9B-592A-470A-9B77-A818BFEF5DED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF61FA9B-592A-470A-9B77-A818BFEF5DED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF61FA9B-592A-470A-9B77-A818BFEF5DED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF61FA9B-592A-470A-9B77-A818BFEF5DED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D331AAE7-BFCD-49F1-85FD-6BD2623D12D0}
+	EndGlobalSection
+EndGlobal
